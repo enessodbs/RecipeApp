@@ -1,0 +1,449 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+
+
+    <!--Avrupa Lezzetleri -->
+    <!--PAELLA -->
+    <string name="paelle">PAELLA</string>
+    <string name="paellamalzeme">
+2 soğan\n
+5 diş sarımsak\n
+5 yemek kaşığı zeytinyağı\n
+2 adet domates\n
+3 adet baby ahtapot\n
+1.5 su bardağı kısa taneli beyaz pirinç\n
+1/2 tatlı kaşığı safran\n
+1 çay bardağı kırmızı şarap (isteğe göre)\n
+3 su bardağı sıcak tavuk suyu (veya sebze suyu)\n
+Tuz\n
+Karabiber\n
+4 karides (200 gram jumbo)\n
+200 g kalamar\n
+12 kabuklu midye (200 gram)\n
+1 su bardağı bezelye\n
+Maydanoz\n
+    </string>
+    <string name="paellatarif">
+İlk olarak kuru soğanları küçük küçük yemeklik doğrayın.\n
+Sarımsakları ezdikten sonra ince ince kıyın. Domateslerin kabuklarını soyduktan sonra küp şeklinde doğrayın.\n
+Tüm deniz ürünlerini dikkatli bir şekilde temizleyin. Ardından bol su ile durulayın.\n
+Yıkadığınız deniz ürünlerini kağıt havlu yardımıyla kurulayın.\n
+Tavuk veya sebze suyunu tencereye alarak kısık ateşte pişirin.\n
+Geniş tabanlı bir tavaya zeytinyağını alarak kızdırın. İçine soğan ve sarımsakları ekleyerek kavurun.\n
+Pirinçleri yıkayıp süzdükten sonra tavanın içine alın ve üzerine doğranmış domatesleri ilave edin.\n
+Safran ve kırmızı şarabı ekledikten sonra yüksek ateşte çektirin.\n
+Sıcak sebze suyunun yarısını pirinçlerin üzerine ilave edin. Tuz ve karabiber ekleyerek kapağını kapatın ve pişmeye bırakın.\n
+Farklı bir tavanın içerisinde zeytinyağını kızdırın. Sırasıyla tüm deniz ürünlerini ekleyerek yüksek ateşte tek tek soteleyin.\n
+Deniz ürünlerini pilav tenceresine alın. Üzerine kalan sebze suyu ve bezelyeleri ekleyerek suyunu çekene kadar pişirin.\n
+Deniz mahsullü paellayı, ince kıyılmış maydanoz ve nane yapraklarıyla servis edin. Afiyet olsun.\n
+    </string>
+
+    <!-- Bouillabaisse -->
+    <string name="bouillabaisse">Bouillabaisse</string>
+    <string name="bouillabaissemalzeme">
+1 ince dilimlenmiş pırasa\n
+3 defne yaprağı\n
+4 yemek kaşığı zeytinyağı\n
+2 doğranmış soğan\n
+1 rezene\n
+4 diş kıyılmış sarımsak\n
+4 büyük domates\n
+1/4 çay kaşığı safran\n
+1/2 su bardağı patates\n
+2 pound (900g) çeşitli balık filetosu (balığı, morina balığı, pisi balığı gibi)\n
+1 pound (450g) çeşitli kabuklu deniz ürünleri (midye, istiridye, karides gibi)\n
+1 chili kırmızı biber\n
+1 yemek kaşığı domates püresi\n
+1 yıldız anason\n
+3 su bardağı balık suyu\n
+2 yemek kaşığı Pernod, isteğe bağlı\n
+    </string>
+    <string name="bouillabaissetarif">
+Midye ve istiridyeleri, kir veya kumu temizlemek için soğuk su altında ovun. Gerekirse karidesleri soyun ve çıkarın. \n
+Balık filetolarını büyük parçalar halinde kesin. Deniz ürünlerini kullanıma hazır olana kadar soğuk tutun.\n
+Kruton ekmek yapmak için fırını 200°C/180°C fan/gaza ısıtın.\n
+Ekmek dilimlerini düz bir fırın tepsisine tek kat halinde yayın, üzerlerine zeytinyağı gezdirin ve kızarana ve gevrekleşene kadar 15 dakika pişirin. Onları bir kenara koyun. Krutonlar bir gün önceden hazırlanıp hava geçirmez bir kapta saklanabilir.\n
+Sarmak için pırasanın yeşil kısmından bir tabaka kullanın ve kekik, defne, maydanoz sapları, portakal kabuğu ve acı biberle bir bitki demeti yapın. Her şeyi mutfak ipiyle birbirine bağlayın ve bir kenara koyun.\n
+Büyük bir güveç tabağında veya stok tencerede, yağı orta ateşte ısıtın. Soğanı, dilimlenmiş pırasa ve rezeneyi ekleyin ve yumuşayana kadar yaklaşık 10 dakika pişirin. Sarımsağı ilave edin ve 2 dakika daha pişirin.\n
+Ardından bitki demetini, domates püresini, yıldız anasonu, Pernod (kullanılıyorsa), doğranmış domatesleri ve safranı ekleyin. Bir veya iki dakika pişirin ve karıştırın. Ardından balık suyunu dökün.\n
+Tuz ve karabiber ekleyin, kaynamaya bırakın ve patates parçasını ekleyin. İnce, domatesli bir çorba elde edene kadar her şeyi 30 dakika hafifçe pişirin. Patates parçalanmanın eşiğine geldiğinde, tencereden çıkarın ve rouille yapmak için bir kenara koyun.\n
+Et suyu kaynarken, sarımsağı, acı biberi ve safranı bir tutam tuzla havanda döverek rouille yapın. Yapışkan bir macun yapmak için pişmiş patatesi ezin, ardından yumurta sarısını çırpın ve mayonez benzeri bir sos yapmak için yavaş yavaş zeytinyağı ekleyin. Limon suyunu karıştırın ve ruloyu bir kenara koyun.\n
+Domates suyu piştikten sonra iki seçeneğiniz vardır: rustik bir bouillabaisse için, kullanıyorsanız midye ile birlikte balıklarınızı (açılana kadar) haşlayın ve servis yapın.\n
+    </string>
+
+    <!-- Pizza -->
+    <string name="pizza">Pizza</string>
+    <string name="pizzamalzeme">
+5 su bardağı un\n
+1 paket instant maya (ya da yarım paket yaş maya)\n
+1 yemek kaşığı toz şeker\n
+Yarım yemek kaşığı tuz\n
+4 yemek kaşığı zeytinyağı\n
+2 su bardağı ılık su\n
+        <b>Sos İçin</b>\n
+2 su bardağı domates sosu\n
+2 yemek kaşığı zeytinyağı\n
+1 çay kaşığı kuru fesleğen\n
+1 çay kaşığı kekik\n
+        <b>Üzeri İçin</b>\n
+Mozzarella peyniri\n
+Kaşar peyniri\n
+Sucuk\n
+Sosis\n
+Domates kurusu\n
+Mantar\n
+Mısır\n
+    </string>
+    <string name="pizzatarif">
+        <b>Hazırlanışı</b>
+Unu yoğurma kabına alalım ve ortasını havuz şeklinde açalım.\n
+Unun ortasına instant maya, şeker, tuz, zeytinyağı ve ılık suyu yavaş yavaş ilave ederek hamurumuzu yoğurmaya başlayalım. İnstant maya yerine yarım paket yaş mayada kullanabilirsiniz.\n
+Yumuşak kıvamlı ele yapışmayan bir hamur elde edelim.\n
+Toparlanan hamurumuzun üzerini streç film örterek yaklaşık 30 dk kadar mayalanmaya bırakalım.\n
+Mayalanan hamurun üzerini açalım ve un serptiğimiz tezgaha hamuru alalım.\n
+Elimizle yine toparlayıp havasını aldıktan sonra 2 eşit parçaya bölelim. Eğer ince hamurlu pizza hazırlamak istiyorsanız aynı hamuru 3 parçaya da bölebilirsiniz.\n
+Kestiğimiz parçayı beze haline getirerek un serptiğimiz tezgahta merdane yardımıyla açalım. Hafifçe un serperek merdaneye yapışmamasını sağlayabilirsiniz.\n
+Açtığımız hamuru pizza tepsisine almadan önce boyutu uygun mu diye kontrol edelim.\n
+Açtığımız hamuru unladığımız pizza tepsisine alalım ve elimizle etrafını düzeltelim.\n
+Dilerseniz normal fırın tepsisine pişirme kağıdı sererek veya altına mısır unu serperek de hazırlayabilirsiniz.\n
+Bir çatal yardımıyla hamurumuzun tüm yüzeyine delikler açalım böylelikle hamur pişerken kabarmayacaktır.\n
+Pizza tepsisini önceden ısıttığımız 200° fırına sürerek hamurumuzu 10 dk pişirelim.\n
+Hamurumuz pişerken pizzanın sosu için domates sosu, zeytinyağı, kuru fesleğen ve kekiği ekleyerek güzelce karıştıralım.\n
+Yarı pişen hamurumuzu fırından alıp hazırladığımız sosu üzerine bolca sürelim. Kenarlarına doğruda güzelce sürersek kenarlarıda daha güzel kızaracaktır.\n
+Domates sosunun üzerine bolca mozzarella peyniri rendesi veya kaşar peyniri rendesini yerleştirelim.\n
+Üzerine tercihe göre dilimlenmiş sucuk, dilimlenmiş sosis, domates kurusu,dilimlenmiş mantar ve mısır tanelerini ekleyelim.\n
+Son olarak pizzamızı tekrar fırına sürelim ve 200° fırında 20 dk daha pişmeye bırakalım.\n
+Peynirleri güzel bir şekilde eriyen sucukları sosisleri gayet nefis bir şekilde pişen pizzamız servise hazır.Afiyet olsun.\n
+    </string>
+
+    <!-- Escargot -->
+    <string name="escargot">Escargot</string>
+    <string name="escargotmalzeme">
+500 gr salyangoz\n
+1 adet soğan\n
+1 adet yeşil biber\n
+4 diş sarımsak\n
+1 adet domates\n
+1 tatlı kaşığı domates salçası\n
+1 tatlı kaşığı biber salçası\n
+5 yemek kaşığı zeytinyağı\n
+½ çay bardağı su\n
+Tuz\n
+Karabiber\n
+    </string>
+    <string name="escargottarif">
+Salyangozlara delik açılır ve kaynayan suya atılarak pişirilir.\n
+3-4 defa tekrarlanır. Su her seferinde tazelenir.\n
+Tencereye zeytinyağı alınır, içerine yemeklik doğranan soğan ve sarımsak eklenir.\n
+Renk değiştirmeye başladıklarında biberler eklenerek pişirilir.\n
+Soğan eklenir, kokusu çıkana kadar kavrulur.\n
+Domates, baharat ve su ekleyerek kaynatın.\n
+Pişen salyangozları ekleyerek bir taşım kaynatın. Afiyet olsun.\n
+    </string>
+
+    <!-- Risotto -->
+    <string name="risotto">Risotto</string>
+    <string name="risottomalzeme">
+
+100 gr arborio pirinci\n
+3 soğan\n
+15 gr zeytinyağı\n
+50 gr porcini mantarı\n
+50 gr kültür mantarı\n
+50 gr kestane mantarı\n
+Tuz ve karabiber\n
+80 gr tereyağı\n
+40 gr parmesan peyniri\n
+1 tutam maydanoz\n
+800 ml sebze suyu\n
+    </string>
+    <string name="risottotarif">
+Soğan ve mantarları zeytinyağında soteleyin.\n
+Rengi pembeleşince pirinci ilave edip kavurmaya devam edin.\n
+Sebze suyunu ilave edip sürekli karıştırarak 20 dakika pişirin.\n
+Ocaktan alıp rendelenmiş parmesan peyniri, tereyağı ve ince kıyılmış maydanozu ilave edip hızlı bir şekilde karıştırın. Servis yapın.\n
+    </string>
+
+    <!-- Bratwursts -->
+    <string name="bratwursts">Bratwursts</string>
+    <string name="bratwurstsmalzeme">
+1 1/2 yemek kaşığı tuz\n
+1 1/2 çay kaşığı beyaz biber\n
+3/4 çay kaşığı karabiber\n
+1 çay kaşığı toz zencefil\n
+1 çay kaşığı kuru mercanköşk\n
+3/4 çay kaşığı hardal\n
+1/4 çay kaşığı kakule tozu\n
+1/4 çay kaşığı kişniş\n
+1/4 çay kaşığı öğütülmüş kimyon\n
+1/4 su bardağı kuru toz süt\n
+1 kg kemiksiz domuz omzu\n
+350 gr domuz yağı\n
+2 su bardağı kırılmış buz\n
+1 çay kaşığı hint cevizi\n
+32 mm doğal sosis kılıfı\n
+    </string>
+    <string name="bratwurststarif">
+45 dakika boyunca dondurucuya doğranmış domuz eti ve yağı ekleyin, böylece 0 °C sıcaklığa ulaşırlar.\n
+45 dakika geçtikten sonra çıkarın ve 2 bardak kırılmış buzla birlikte bir kaseye ekleyin. Bir kıyma makinesi kullanın ve karışımı 6 mm bir kalıpla öğütün. Hızlı çalışın ve eti bir buz banyosunun üzerine yerleştirilmiş bir kaseye öğüterek eti soğuk tutun.\n
+Kıyılmış et karışımının yarısını ikinci kez öğütün ve ardından tüm kıyılmış etleri buzdolabına aktarın.\n
+Et soğudukça baharat karışımınızı toplamaya çalışın. Bütün baharatları küçük bir kasede birleştirin.\n
+Eti buzdolabından çıkarın ve bir tezgah üstü miksere aktarın. Kuru süt tozu ve önceden hazırlanmış baharat karışımını ekleyin.\n
+Ette iplikler görünene kadar eti mikserde işleyin (3-4 dakika) ve ardından eti tekrar buzdolabına koyun, böylece sosis kılıflarını hazırlayabilirsiniz.\n
+Sosis doldurma makinesine sosisleri geçirin. Et karışımını sosis doldurma makinesine ekleyin ve aşırı doldurma ve hava boşluklarından kaçınarak kılıfları doldurun.\n
+Doldurulmuş sosisleri bağlantılara çevirin ve bağlantılarda bulunan hava kabarcıklarını bir sosis delici kullanarak delin.\n
+Otantik Alman sosisleri yapmak için bu sosisleri hafifçe tuzlu suda hafifçe haşlayın. Buzdolabında bir haftaya kadar sıkıca sarılı olarak saklayın veya hemen ızgara/kızartma yapın ve tadını çıkarın!\n
+    </string>
+
+    <!--Borş Çorbası-->
+    <string name="borscorbasi">Borş Çorbası</string>
+    <string name="borscorbasimalzeme">
+500 gr kemikli dana yada koyun eti\n
+Yarım çay bardağı sıvı yağ\n
+1 çorba kaşığı salça\n
+Yarım küçük lahana\n
+1 adet kırmızı pancar (çok küçükse 2 adet)\n
+2 adet havuç\n
+3-4 adet domates\n
+1-2 adet yeşil biber\n
+1 büyük soğan\n
+2-3 adet patates\n
+2-3 diş sarımsak\n
+        <b>Baharatlar</b>\n
+Defne yaprağı\n
+Karabiber, pul biber, öğütülmüş kişniş tohumu, kekik. az kimyon\n
+    </string>
+    <string name="borscorbasitarifi">
+Kemikli etleri tencereye alın, içerisine defne yaprağı ve tane karabiber ekleyin ve etler kemiklerinden ayrılacak seviyeye gelinceye kadar pişirin.\n
+Pancarın kabuğunu soymadan tencereye alın içerisine biraz sirke ekleyip hafif yumuşayana kadar haşlayın.\n
+Yumuşayan pancarın suyunu dökün. Kabuğunu soyup doğrayın. Soğanı ve sarımsağı yemeklik doğrayın. Lahanayı, havucu, pırasayı da eşit şekilde doğrayın\n
+İlk olarak tencereye yağ ile birlikte soğanları alarak kavurmaya başlayın.\n
+Havuç, pancar ve pırasayı ekleyerek pişirmeye devam edin.\n
+Küp küp doğradığınız domatesleri ve lahanayı da tencereye ekleyin. Kavurmaya devam edin.\n
+Pişen etleri kemiklerinden ayırın tencereye ekleyin.\n
+Pişen etleri kemiklerinden ayırın tencereye ekleyin.\n
+Pişen çorbanızı tabağa alın. Üzerine isteğe bağlı ekşi krema ya da süzme yoğurt ile servis yapın. Afiyet olsun.\n
+    </string>
+
+    <!--Cannoli-->
+    <string name="cannoli">Cannoli</string>
+    <string name="cannolimalzeme">
+200 gram un\n
+30 gram pudra şekeri\n
+2 yemek kaşığı tatlı şarap\n
+1 tatlı kaşığı vanilya özütü\n
+1 tatlı kaşığı rendelenmiş portakal kabuğu\n
+1 adet yumurta\n
+        <b>Peynir Dolgu İçin</b>\n
+200 gram ricotta peynir veya taze lor\n
+4 yemek kaşığı pudra şekeri\n
+1/2 su bardağı dövülmüş Antep fıstığı\n
+    </string>
+    <string name="cannolitarif">
+Unu eleyerek bir yoğurma kabına alın, ortasına bir havuz açın.\n
+Bütün hamur malzemelerini bu havuzda birleştirip, yoğurmaya başlayın.\n
+Oldukça sert bir hamur elde edeceksiniz. Hamuru streçleyip buzdolabına atın ve en az bir saat dinlendirin.\n
+Dinlenen hamurdan parçalar koparıp, mümkün olduğunca ince ve yuvarlak olacak şekilde açın.\n
+Yağı iyice kızdırın.\n
+Yuvarlak hamur parçalarını metal çubuklara sarıp, birleşme yerlerini de sıkıca bastırıp, kızgın yağa atın.\n
+Rengi altın sarısı olana dek yaklaşık 3 dakika kadar kızartın.\n
+Çıkarıp havlu kağıt üzerine alın ve ılımaya bırakın.\n
+Başka bir kapta ricotta peyniri, pudra şekerini iyice çırpın ve krema tüpüne doldurun.\n
+Hamurlar soğuyunca içerisindeki metal çubukları çıkartın ve peynir kreması ile doldurun.\n
+Kremanın çıktığı her iki ucunu da dövülmüş fıstığa batırarak servis tabaklarına alın.\n
+    </string>
+
+    <!-- Arancini -->
+    <string name="arancini">Arancini</string>
+    <string name="arancinimalzeme">
+2 yemek kaşığı zeytinyağı\n
+15 gr tuzsuz tereyağı\n
+1 soğan, ince doğranmış\n
+1 büyük diş sarımsak, ezilmiş\n
+350 gr arborio pirinci\n
+1.4 lt sıcak tavuk veya sebze suyu\n
+150 gr parmesan, ince rendelenmiş\n
+1 limon, ince rendelenmiş\n
+150 gr top mozzarella, 18 küçük parçaya bölünmüş\n
+Kızartmak için sıvıyağ\n
+        <b>Kaplama İçin</b>\n
+150 gr un\n
+3 büyük yumurta, hafifçe çırpılmış\n
+150 gr galeta unu\n
+    </string>
+    <string name="arancinitarif">
+ağı ve tereyağını bir tencerede köpürene kadar ısıtın. Soğanı ve bir tutam tuzu ekleyin ve kısık ateşte 15 dakika veya yumuşayana kadar kavurun.\n
+Sarımsağı ekleyerek, karıştırın.\n
+Pirinçleri ekleyerek harmanlayın. Sıcak sudan 3 kepçe ekleyin ve çekmeye başlayınca tekrar ekleyin.\n
+Bu şekilde su bitene, pirinç pişene kadar devam edin.\n
+Parmesan ve limon kabuğu rendesini ilave ederek soğumaya bırakın.\n
+Soğuyan risottolar ile 18 eşit top yapın. Top büyüklükleri ceviz büyüklüğünde olmalıdır. Ortasına mozerella parçası koyup yuvarlak forma getirin.\n
+Un, çırpılmış yumurta ve galeta ununu ayrı kaplara koyarak hazırlanan topları önce una sonra yumurtaya en son ise galeta ununa bulayın. Kızgın yağa atarak kızartın.\n
+Kızaran topları yağlı kağıda çıkartın ve sıcakken servis edin. Afiyet olsun.\n
+    </string>
+
+    <!-- Pesto -->
+    <string name="pesto">Pesto</string>
+    <string name="pestomalzeme">
+2 büyük demet taze fesleğen\n
+3 yemek kaşığı parmesan peyniri\n
+3 yemek kaşığı çam fıstığı\n
+1/2 adet limon suyu\n
+1/2 çay bardağı zeytinyağı\n
+2 diş sarımsak\n
+1 çimdik tuz\n
+    </string>
+    <string name="pestotarif">
+        <b>Hazırlanışı</b>
+Yaprak yaprak ayıklayıp, bol suda yıkadığınız fesleğenleri güzelce kurulayın.\n
+Mutfak robotuna fesleğenleri ekleyin\n
+Üzerine rendelenmiş parmesan peyniri, sarımsak, limon suyu tuz ve çam fıstığını ekleyin.\n
+Tüm malzemeleri mutfak robotunda püre haline getirin. Son olarak zeytinyağını azar azar ekleyip kıvamını ayarlayın. Sürülebilir bir kıvam alana kadar karıştırma işlemini sürdürün.\n
+Hazırladığınız pesto sosu bir kaseye alın. Buzdolabında saklamak için ağzı kapalı bir kavanoza koyabilirsiniz. Afiyet olsun!\n
+    </string>
+    <!-- Kalamar Dolması -->
+    <string name="kalamar">Kalamar Dolması</string>
+    <string name="kalamarmalzeme">
+        <b>Malzemeler</b>
+4 kalamar\n
+200 gr karides\n
+1 levrek fileto\n
+1 çay bardağı krema\n
+2 diş ezilmiş sarımsak\n
+¼ demet maydanoz\n
+2~3 dal taze kekik\n
+Tuz\n
+Karabiber\n
+        <b>Üzeri İçin</b>\n
+1 su bardağı domates püresi\n
+1 diş ezilmiş sarımsak\n
+1 yemek kaşığı zeytinyağı\n
+Tuz\n
+Karabiber\n
+Fesleğen\n
+        <b>Marinat İçin</b>\n
+1 limonun suyu\n
+1 yemek kaşığı toz şeker\n
+1 tatlı kaşığı karbonat\n
+    </string>
+    <string name="kalamartarif">
+Kalamarları derin bir kaba alın. Üzerine limon suyu, toz şeker ve karbonatı ekleyip 2-3 dakika ovun.\n
+Üzerini örterek en az 3-4 saat dinlendirin. Karides ve levreği haşlayın. Tavla zarı şeklinde doğrayın.\n
+Üzerine krema ve ezilmiş sarımsakları ilave edip karıştırın. İnce kıydığınız yeşillikleri, tuzu ve karabiberi ilave edip karıştırın.\n
+Kalamarları yıkadıktan sonra içini bu harç ile doldurun. Kalamarların ağzını kürdan ile kapatın. Güveç kaplarını hafif yağladıktan sonra kalamarları güvece alın.\n
+Üzerine 1 yemek kaşığı tereyağı paylaştırın. 180 derece fırında 8 dakika pişirin. Sos malzemelerini 5 dakika pişirin.\n
+Fırından çıkardığınız kalamar dolmalarla birlikte servis yapın. Afiyet olsun.\n
+    </string>
+<!-- İtalyan Pişisi -->
+    <string name="italyanPisi">İtalyan Pişisi</string>
+    <string name="italyanPisimalzeme">
+750 gr un\n
+2 çorba kaşığı zeytinyağı\n
+1 su bardağı ılık süt\n
+1 paket instant maya\n
+Su\n
+2 kesme şeker\n
+1, 5 bardak su\n
+Taze fesleğen\n
+1 diş sarımsak\n
+3 domates\n
+Tuz, karabiber ,peynir çeşitler (Mozarella, parmesan, kaşar) kızartmak için çiçekyağı zeytinyağı karışımı\n
+    </string>
+    <string name="italyanPisitarif">
+Mayayı ılık sütle karıştırıp un ve şekerle beraber un ekleyerek yoğuralım.\n
+1 saat kadar mayalanmasını bekleyelim.\n
+O esnada sosunu hazırlayalım.\n
+Domatesleri rendeleyip sarımsak, tuz ve karabiberle birlikte pişirelim.\n
+İyice sosunu çektirip soğutalım.\n
+Hamurdan neskafe tabağı büyüklüğünde açıp bir tarafına sos sürelim.\n
+Üzerine rendelenmiş peynirleri ve ince kıyılmış fesleğeni koyup kapatalım.\n
+Çok az zeytinyağı eklenmiş çiçekyağında kızartalım.\n
+Bu yemeği italyada salam, bacon vb ile pişiriyorlar. Ben şarküteri kullanmadığım için bu sekilde hazırladım. afiyet olsun.\n
+    </string>
+    <!-- Panzerotti -->
+    <string name="Stracciatella">Stracciatella </string>
+    <string name="Stracciatellamalzeme">
+320 g Carnaroli pirinci\n
+400 g karışık mantar (Porçini, sarıkız, kuzugöbeği, kestane ve istiridye)\n
+40 g arpacık soğanı (Doğranmış)\n
+100 g tereyağı\n
+100 g Grana Padano peyniri\n
+1 l mantarlı sebze suyu\n
+100 g Stracciatella peyniri\n
+1 tatlı kaşığı limon kabuğu rendesi\n
+        <b>Mantarlı Sebze Suyu İçin</b>\n
+2 lt su\n
+1 adet havuç\n
+1 adet pırasa (Beyaz ve yeşil kısmı ayrı)\n
+1 adet kereviz (sap ve yaprakları ile birlikte)\n
+1 adet kuru soğan\n
+3 adet arpacık soğanı\n
+2 adet salkım domates\n
+5 adet kültür mantarı\n
+15 g kuru porçini mantar\n
+1 diş sarımsak\n
+1 tutam taze kekik\n
+1 tutam maydanoz sapı\n
+1 tutam kereviz sapı\n
+Zeytinyağı\n
+    </string>
+    <string name="Stracciatellatarif">
+Mantarlı sebze suyu için kuru mantar, pırasanın yeşil kısmı, kekik, maydanoz ve  kereviz sapları hariç bütün malzemeyi bir tencereye alarak çok az zeytinyağı ile kavurun.\n
+Daha sonra kekik, maydanoz ve kereviz saplarını pırasanın yeşil yaprakları ile sararak su ile birlikte karışıma ilave edin ve 30 dakika süreyle pişirin.\n
+Süre sonunda süzgeçten geçirin ve kuru mantarı ekleyerek 1 saat süreyle ağzını kapatarak dinlenmeye bırakın.\n
+Kapaklı ve geniş bir tavaya 30 gram tereyağı ve arpacık soğanını alarak, soğanlar yarı şeffaf olana kadar yavaş yavaş pişirin. Pirinci ekleyerek 3-4 dakika kavurduktan sonra mantarları ilave edin ve 2 dakika daha pişirin. Mantarlı  sebze suyunu ekleyerek pirinç sevdiğiniz kıvama gelene kadar pişirmeye devam edin. Kapağını kapatın ve 2 dakika dinlendirin.\n
+Kalan tereyağını parmesan, tuz ve karabiber birlikte bir tavaya alarak kremsi bir kıvam elde edene kadar karıştırarak pişirin.\n
+Risottoyu servis tabağına alın ve kremsi tereyağı ile karıştırın. Üstüne Stracciatella peyniri ve limon kabuğu rendesi ekleyerek servis edin.\n
+    </string>
+
+
+
+
+
+    <!-- Fırında Kıymalı Spagetti Makarna-->
+    <string name="kiymaliSpagetti">
+        Fırında Kıymalı Spagetti Makarna
+    </string>
+    <string name="kiymaliSpagettimalzeme">
+Yarım paket fırın makarna\n
+İç harcı için:\n
+400 gr kıyma\n
+1 orta boy soğan\n
+1 büyük boy domatesin rendesi\n
+4 yemek kaşığı sıvı yağ\n
+1 yemek kaşığı salça\n
+2 sivri biber\n
+Tuz\n
+Karabiber\n
+Pulbiber\n
+Kimyon\n
+Beşamel sos için:\n
+3, 5 su bardağı süt\n
+3 yemek kaşığı un\n
+3 yemek kaşığı tereyağ\n
+Tuz\n
+Karabiber\n
+Üzeri için:\n
+Kaşar peyniri rendesi\n
+    </string>
+    <string name="kiymaliSpagettitarif">
+İlk olarak iç harcımızı hazırlayalım.\n
+Soğanlar küp küp doğrayalım.\n
+Tavaya sıvı yağ koyup soğanlar ve yemeklik doğranmış biberler ekleyip kavuralım.\n
+Soğan ve biber yumuşayınca kıymayı da ekleyip kavurmaya devam edelim.\n
+Domates rendesi, salça, tuz ve baharatlar ekleyelim, ve 2- 3 dakika daha kavurup ocaktan alalım.\n
+Makarnayı tarifine göre haşlayalım\n
+Makarna haşlanırken beşamel sosu hazırlayalım.\n
+Sos için tencereye 3 kaşık tereyağ koyup eritelim.\n
+Un ekleyip karıştırarak kavuralım.\n
+3. 5 su bardağı sütü ekleyip sürekli karıştıralım.\n
+Kaynamaya gelince tuz ve karabiber ekleyip 1-2 dakika daha ocakta bekletildikten sonra ocaktan alalım.\n
+Orta boy borcama haşlanan makarnanın yarısı yayalım.\n
+Beşamel sosun yarısı makarnaların üzerine gezdirelim.\n
+Kıymalı harçtan makarnanın üzerine eşit şekilde yayalım.\n
+Kalan makarnayı kıymalı harcın üzerine ekleyip yayalım.\n
+Kalan beşamel sosu makarnanın üzerine eşit şekilde gezdirelim.\n
+Üzerine rendelediğimiz kaşar peynirini serpelim.\n
+Önceden ısıtılmış 200 derecelik fırında üzeri kızarana kadar pişirelim.\n
+    </string>
+</resources>

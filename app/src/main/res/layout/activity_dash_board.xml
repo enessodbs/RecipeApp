@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activities.DashBoard">
+    <androidx.core.widget.NestedScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.denzcoskun.imageslider.ImageSlider
+            android:id="@+id/main_slider"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            app:iss_auto_cycle="true"
+            app:iss_period="1000"
+            app:iss_delay="1000"
+            app:iss_text_align="CENTER"/>
+
+        <TextView
+            android:layout_margin="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="POPÜLER TARİFLER"
+            android:textStyle="bold"
+            android:textSize="16dp"/>
+
+        <androidx.cardview.widget.CardView
+            android:layout_margin="20dp"
+            app:cardElevation="8dp"
+            app:cardCornerRadius="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="300dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <com.denzcoskun.imageslider.ImageSlider
+                    android:id="@+id/main_popular_slider1"
+                    android:layout_width="match_parent"
+                    android:layout_height="160dp"
+                    app:iss_auto_cycle="true"
+                    app:iss_period="1000"
+                    app:iss_delay="1000"
+                    app:iss_text_align="CENTER"/>
+
+                <TextView
+                    android:layout_margin="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Spagettiler ve Makarnalar"
+                    android:textStyle="italic|bold"
+                    android:textSize="16dp"/>
+
+                <Button
+                    android:id="@+id/spagettivemakarna"
+                    android:onClick="ViewAll"
+                    android:layout_marginTop="2dp"
+                    android:layout_gravity="center"
+                    android:background="@color/black"
+                    android:textColor="@color/white"
+                    android:textSize="18sp"
+                    android:text="Tariflere Git"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"/>
+
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_margin="20dp"
+            app:cardElevation="8dp"
+            app:cardCornerRadius="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="300dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <com.denzcoskun.imageslider.ImageSlider
+                    android:id="@+id/main_popular_slider2"
+                    android:layout_width="match_parent"
+                    android:layout_height="160dp"
+                    app:iss_auto_cycle="true"
+                    app:iss_period="1000"
+                    app:iss_delay="1000"
+                    app:iss_text_align="CENTER"/>
+
+                <TextView
+                    android:layout_margin="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Kurabiyeler"
+                    android:textStyle="italic|bold"
+                    android:textSize="16dp"/>
+
+                <Button
+                    android:id="@+id/kurabiyeler"
+                    android:onClick="ViewAll"
+                    android:layout_marginTop="2dp"
+                    android:layout_gravity="center"
+                    android:background="@color/black"
+                    android:textColor="@color/white"
+                    android:textSize="18sp"
+                    android:text="Tarife Git"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"/>
+
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_margin="20dp"
+            app:cardElevation="8dp"
+            app:cardCornerRadius="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="300dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <com.denzcoskun.imageslider.ImageSlider
+                    android:id="@+id/main_popular_slider3"
+                    android:layout_width="match_parent"
+                    android:layout_height="160dp"
+                    app:iss_auto_cycle="true"
+                    app:iss_period="1000"
+                    app:iss_delay="1000"
+                    app:iss_text_align="CENTER"/>
+
+                <TextView
+                    android:layout_margin="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Salatalar"
+                    android:textStyle="italic|bold"
+                    android:textSize="16dp"/>
+
+                <Button
+                    android:id="@+id/salatalar"
+                    android:onClick="ViewAll"
+                    android:layout_marginTop="2dp"
+                    android:layout_gravity="center"
+                    android:background="@color/black"
+                    android:textColor="@color/white"
+                    android:textSize="18sp"
+                    android:text="Tarife Git"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"/>
+
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:layout_margin="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="FARKLI LEZZETLER"
+            android:textStyle="bold"
+            android:textSize="16dp"/>
+
+        <androidx.cardview.widget.CardView
+            android:layout_margin="20dp"
+            app:cardElevation="8dp"
+            app:cardCornerRadius="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="300dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <com.denzcoskun.imageslider.ImageSlider
+                    android:id="@+id/farkli_lezzetler1"
+                    android:layout_width="match_parent"
+                    android:layout_height="160dp"
+                    app:iss_auto_cycle="true"
+                    app:iss_period="1000"
+                    app:iss_delay="1000"
+                    app:iss_text_align="CENTER"/>
+
+                <TextView
+                    android:layout_margin="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Avrupa Lezzetleri"
+                    android:textStyle="italic|bold"
+                    android:textSize="16dp"/>
+
+                <Button
+                    android:id="@+id/avrupaLezzetleri"
+                    android:onClick="ViewAll"
+                    android:layout_marginTop="2dp"
+                    android:layout_gravity="center"
+                    android:background="@color/black"
+                    android:textColor="@color/white"
+                    android:textSize="18sp"
+                    android:text="Tarife Git"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"/>
+
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_margin="20dp"
+            app:cardElevation="8dp"
+            app:cardCornerRadius="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="300dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <com.denzcoskun.imageslider.ImageSlider
+                    android:id="@+id/farkli_lezzetler2"
+                    android:layout_width="match_parent"
+                    android:layout_height="160dp"
+                    app:iss_auto_cycle="true"
+                    app:iss_period="1000"
+                    app:iss_delay="1000"
+                    app:iss_text_align="CENTER"/>
+
+                <TextView
+                    android:layout_margin="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Asya Lezzetleri"
+                    android:textStyle="italic|bold"
+                    android:textSize="16dp"/>
+
+                <Button
+                    android:id="@+id/asyaLezzetleri"
+                    android:onClick="ViewAll"
+                    android:layout_marginTop="2dp"
+                    android:layout_gravity="center"
+                    android:background="@color/black"
+                    android:textColor="@color/white"
+                    android:textSize="18sp"
+                    android:text="Tarife Git"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"/>
+
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_margin="20dp"
+            app:cardElevation="8dp"
+            app:cardCornerRadius="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="300dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <com.denzcoskun.imageslider.ImageSlider
+                    android:id="@+id/farkli_lezzetler3"
+                    android:layout_width="match_parent"
+                    android:layout_height="160dp"
+                    app:iss_auto_cycle="true"
+                    app:iss_period="1000"
+                    app:iss_delay="1000"
+                    app:iss_text_align="CENTER"/>
+
+                <TextView
+                    android:layout_margin="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Amerika Lezzetleri"
+                    android:textStyle="italic|bold"
+                    android:textSize="16dp"/>
+
+                <Button
+                    android:id="@+id/amerikaLezzetleri"
+                    android:onClick="ViewAll"
+                    android:layout_marginTop="2dp"
+                    android:layout_gravity="center"
+                    android:background="@color/black"
+                    android:textColor="@color/white"
+                    android:textSize="18sp"
+                    android:text="Tarife Git"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"/>
+
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>
+</LinearLayout>
