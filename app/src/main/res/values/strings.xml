@@ -446,4 +446,6 @@ Kalan beşamel sosu makarnanın üzerine eşit şekilde gezdirelim.\n
 Üzerine rendelediğimiz kaşar peynirini serpelim.\n
 Önceden ısıtılmış 200 derecelik fırında üzeri kızarana kadar pişirelim.\n
     </string>
+    <string name="open" />
+    <string name="close" />
 </resources>

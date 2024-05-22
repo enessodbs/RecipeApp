@@ -29,7 +29,7 @@ public class FullView extends AppCompatActivity {
 
 
 
-     TextView titleTxt,materialTitle,materialTxt,recipeTitle,recipeTxt,;
+     TextView titleTxt,materialTitle,materialTxt,recipeTitle,recipeTxt;
      ImageView imageView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -5,18 +5,23 @@ import static com.example.recipeapp.R.*;
 import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
+import android.view.MenuItem;
 import android.view.View;
 
 import androidx.activity.EdgeToEdge;
+import androidx.annotation.NonNull;
+import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+import androidx.drawerlayout.widget.DrawerLayout;
 
 import com.denzcoskun.imageslider.ImageSlider;
 import com.denzcoskun.imageslider.constants.ScaleTypes;
 import com.denzcoskun.imageslider.models.SlideModel;
 import com.example.recipeapp.R;
+import com.google.android.material.navigation.NavigationView;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -32,6 +37,9 @@ public class DashBoard extends AppCompatActivity {
     List<SlideModel> slideModelList7;
     ImageSlider imageSlider1,imageSlider2,imageSlider3,imageSlider4,imageSlider5,imageSlider6,imageSlider7;
 
+    DrawerLayout drawerLayout;
+    NavigationView navigationView;
+    ActionBarDrawerToggle actionBarDrawerToggle;
     @Override
     public void onBackPressed() {
         super.onBackPressed();
@@ -47,10 +55,44 @@ public class DashBoard extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_dash_board);
-        ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
+        ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.drawer), (v, insets) -> {
             Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
+        });
+
+        drawerLayout=(DrawerLayout)findViewById(R.id.drawer);
+
+        actionBarDrawerToggle=new ActionBarDrawerToggle(DashBoard.this,drawerLayout,R.string.open,R.string.close);
+        actionBarDrawerToggle.syncState();
+        drawerLayout.addDrawerListener(actionBarDrawerToggle);
+
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        navigationView =(NavigationView)findViewById(R.id.navigationView);
+
+        navigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
+            @Override
+            public boolean onNavigationItemSelected(@NonNull MenuItem item) {
+                Intent intent = new Intent(DashBoard.this, MainActivity.class);
+                if (item.getItemId() == R.id.tatliMenu){
+                    intent.putExtra("condition",5);
+                }else if (item.getItemId() == R.id.makarnaMenu){
+                    intent.putExtra("condition",4);
+                }else if (item.getItemId() == R.id.etMenu){
+                    intent.putExtra("condition",6);
+                }else if (item.getItemId() == R.id.corbaMenu){
+                    intent.putExtra("condition",7);
+                }else if (item.getItemId() == R.id.hamurMenu){
+                    intent.putExtra("condition",8);
+                }else if (item.getItemId() == R.id.sebzeMenu){
+                    intent.putExtra("condition",9);
+                }else if (item.getItemId() == id.salataMenu){
+                    intent.putExtra("condition",6);
+                }
+                startActivity(intent);
+                return true;
+
+            }
         });
 
         imageSlider1 = (ImageSlider)findViewById(R.id.main_slider);
@@ -128,5 +170,10 @@ public class DashBoard extends AppCompatActivity {
         }
 
         startActivity(intent);
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(@NonNull MenuItem item) {
+        return actionBarDrawerToggle.onOptionsItemSelected(item) || super.onOptionsItemSelected(item);
     }
 }

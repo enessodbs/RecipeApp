@@ -1,4 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="Tatlılar"
+    android:id="@+id/tatliMenu"/>
 
+    <item
+        android:title="Makarnalar"
+        android:id="@+id/makarnaMenu"/>
+    <item
+        android:title="Etli Yemekler"
+        android:id="@+id/etMenu"/>
+    <item
+        android:title="Çorbalar"
+        android:id="@+id/corbaMenu"/>
+    <item
+        android:title="Hamur İşi"
+        android:id="@+id/hamurMenu"/>
+    <item
+        android:title="Sebze Yemekleri"
+        android:id="@+id/sebzeMenu"/>
+
+    <item
+        android:title="Salatalar"
+        android:id="@+id/salataMenu"
+        />
 </menu>

@@ -58,11 +58,42 @@ public class MainActivity extends AppCompatActivity {
             asyaLezzetleri();
         } else if (condition==3)
         {
+            amerikaLezzetleri();
         } else if (condition==4) {
-           
+           makarnalar();
+        } else if (condition==5) {
+            tatlılar();
+        } else if (condition==6) {
+            etler();
+        } else if (condition==7) {
+            corbalar();
+        } else if (condition==8) {
+            hamurisi();
+        } else if (condition==9) {
+            sebzeler();
         }
 
 
+    }
+
+    private void etler() {
+    }
+
+    private void sebzeler(){
+
+    }
+    private void hamurisi() {
+    }
+    private void corbalar() {
+    }
+
+    private void salatalar() {
+    }
+
+    private void tatlılar() {
+    }
+
+    private void makarnalar() {
     }
 
     private void avrupaLezzetleri() {
